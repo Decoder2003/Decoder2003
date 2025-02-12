@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **Upcoming Software Engineer (SD1,SDE2,..n-1) | Final year student**  
+🚀 **Upcoming Software Engineer (SDE-1,SDE-2,..n-1) | Final year student**  
  
 ⚡ Ex-SWE Intern @XpressBites | Dev Lead @HackHound | WebDevLead @GDSC  
 🌱 I'm currently mastering [Backend Development](https://roadmap.sh/backend)!   
