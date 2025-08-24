@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🚀 **Upcoming Software Engineer (SDE-1,SDE-2,..n-1) | Final year student**  
  
-⚡ Ex-SWE Intern @XpressBites | Dev Lead @HackHound | WebDevLead @GDSC  
+⚡ SDE-1 NIRVIGHNA SERVICES PRIVATE LIMITED | Ex-SWE Intern @XpressBites | Dev Lead @HackHound | WebDevLead @GDSC  
 🌱 I'm currently mastering [Backend Development](https://roadmap.sh/backend)!   
 🔍 Love solving [DSA](https://github.com/Decoder2003/data-structures-algorithms), working on innovative projects, and competing in hackathons.  
 📚 On a journey to become a **`SDE` & future `MBA`** 🚀  
